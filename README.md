@@ -18,6 +18,6 @@ Submissions are evaluated on the Mean Absolute Error (MAE) between the predicted
 MAE=1n∑i=1n|yi−xi|
 
 Where:
-- n is the total number of data points.
-- yi is the predicted value for data point i.
-- xi is the observed value for data point i.
+- n is the total number of data points
+- yi is the predicted value for data point i
+- xi is the observed value for data point i
