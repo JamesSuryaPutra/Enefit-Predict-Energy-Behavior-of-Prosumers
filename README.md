@@ -1,4 +1,5 @@
 # Enefit: Predict Energy Behavior of Prosumers
+![header](https://github.com/JamesSuryaPutra/Enefit-Predict-Energy-Behavior-of-Prosumers/assets/155945814/162d049e-771c-4f77-8b88-102145de5939)
 
 # Overview
 The goal of the competition is to create an energy prediction model of prosumers to reduce energy imbalance costs.
@@ -15,7 +16,9 @@ At present, Enefit is attempting to solve the imbalance problem by developing in
 
 # Evaluation
 Submissions are evaluated on the Mean Absolute Error (MAE) between the predicted return and the observed target. The formula is given by:
-MAE=1n∑i=1n|yi−xi|
+
+![Mean_Absolute_Error](https://github.com/JamesSuryaPutra/Enefit-Predict-Energy-Behavior-of-Prosumers/assets/155945814/ab861b22-b600-4deb-a4af-6deb70a7d61c)
+
 
 Where:
 - n is the total number of data points
